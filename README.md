@@ -5,7 +5,7 @@ Enumeration Techniques
 
 # AIM:
 
-To use Google for gathering information and perform enumeration of targets
+To use Google for gathering information and perform enumeration of targets  
 
 ## STEPS:
 
